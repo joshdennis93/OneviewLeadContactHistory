@@ -1,0 +1,7 @@
+<template>
+    <lightning-card title={cardTitle} icon-name={cardIcon}>
+        <template if:true={fieldHistory}>
+            <lightning-datatable data={fieldHistory} columns={columns} key-field="Id" hide-checkbox-column="true"></lightning-datatable>
+        </template>
+    </lightning-card>
+</template>
