@@ -14,11 +14,11 @@ View the field audit history of a Contact record as well as the Lead it was conv
 - You cannot sort/filter the rows. Sorting isn't too difficult & is documented on the LWC datatable component documentation.
 
 ## Examples
-![image1](/images/image1.PNG)
+![image1](/images/image1.png)
 
 ![image2](/images/image2.png)
 
-![image3](/images/image3.PNG)
+![image3](/images/image3.png)
 
 ## Use cases
 - Fairly straightforward - for a given Contact that had been converted from a Lead, you can view the changes made to it as a Lead without needing to query for/report on the Lead itself.
